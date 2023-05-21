@@ -23,3 +23,11 @@ $control-border-width: 2px;
 $input-border-color: transparent;
 $input-background-color: $white;
 $input-shadow: none;
+
+/* ------------------------------ GLOBAL STYLES ----------------------------- */
+
+html, body {
+  height: 100%;
+  font-size: 18px !important;
+  overflow: hidden !important;
+}
