@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class NotesListComponent {
 
+  cardTitle: string = 'abc'
+  cardBody: string = 'lorem ipsum lorem ipsum lorem ipsum'
 }
